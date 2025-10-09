@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="long_press_me">Long press me!</string>
+</resources>
