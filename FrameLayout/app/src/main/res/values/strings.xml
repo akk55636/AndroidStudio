@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FrameLayout</string>
+    <string name="login_details">Login Details</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="submit">Submit</string>
+</resources>
